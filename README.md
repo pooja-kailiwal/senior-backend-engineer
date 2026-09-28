@@ -127,7 +127,6 @@ I specialize in **PHP/Laravel, API architecture, Shopify, eCommerce integrations
 ### Overall Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pooja-kailiwal&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="Pooja's GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=pooja-kailiwal&theme=dark&hide_border=true" alt="Pooja's GitHub streak" />
 </p>
 
@@ -135,12 +134,6 @@ I specialize in **PHP/Laravel, API architecture, Shopify, eCommerce integrations
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pooja-kailiwal&theme=github_dark" alt="GitHub contribution history" />
-</p>
-
-### Recent Contribution / Commit Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-kailiwal&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
